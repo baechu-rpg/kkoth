@@ -1,0 +1,6 @@
+links importantes que no se donde poner: 
+   /*INICIO DE CODIGO*/
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Amethystaa/firmaskkoth@4aedd810854466b1357e5f1f023d21559b0dba11/callistatablilla.css">
+   /*CODE PARA FONTS*/
+<style>
+@font-face{font-family:"SingleGhost-regular";src:url("https://cdn.jsdelivr.net/gh/baechu-rpg/kkoth@e46defa1de68ff3e3e08058b457ad517ca3c5b10/SingleGhost%20regular.ttf") format("truetype");font-display:swap;}</style>
